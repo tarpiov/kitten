@@ -39,7 +39,7 @@ python3 main.py
 # Uso
 ---
 
-<img src="https://media.discordapp.net/attachments/1271321869760598081/1274171154990501958/image.png?ex=66c147dc&is=66bff65c&hm=5dee4f1a8f1a6dbba48561b5d18839942958582cad91d0c8486a286a4ef238ed&=&format=webp&quality=lossless&width=853&height=904" width=500>
+<img src="[https://media.discordapp.net/attachments/1271321869760598081/1274171154990501958/image.png?ex=66c147dc&is=66bff65c&hm=5dee4f1a8f1a6dbba48561b5d18839942958582cad91d0c8486a286a4ef238ed&=&format=webp&quality=lossless&width=853&height=904](https://media.discordapp.net/attachments/1271321869760598081/1274181511217942648/image.png?ex=66c15181&is=66c00001&hm=77f5839bededdf762049dbd7387dfaf6a4c904728eba14d42f1846bef1b29e58&=&format=webp&quality=lossless&width=939&height=904)" width=500>
 
 - `Normal`: Escanea los subdominios basándose en los mas usados a nivel mundial
 - `Spanish`: Escanea los subdominios basándose en los mas usados a nivel hispanohablante
