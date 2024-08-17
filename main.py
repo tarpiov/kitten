@@ -46,7 +46,7 @@ banner = f"""{Colors.magenta}
     ⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
     ⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-    {Colors.cyan}Zeus Subdomain Scanner by @tarpiov in all socials (or tapioon in Nodo313){Colors.reset}
+    {Colors.cyan}Kitten Subdomain Scanner by @tarpiov in all socials (or tapioon in Nodo313){Colors.reset}
 
 """
 
