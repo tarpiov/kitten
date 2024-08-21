@@ -39,7 +39,7 @@ python3 main.py
 # Uso
 ---
 
-["alt"(image.png)
+["alt"](image.png)
 
 - `Normal`: Escanea los subdominios basándose en los mas usados a nivel mundial
 - `Spanish`: Escanea los subdominios basándose en los mas usados a nivel hispanohablante
