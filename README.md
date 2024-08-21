@@ -1,7 +1,7 @@
 
 # Kitten scanner
 
-<img src="<img src="https://media.discordapp.net/attachments/1271321869760598081/1274182086642765947/image.png?" witdh=450>
+<img src="https://media.discordapp.net/attachments/1271321869760598081/1274182086642765947/image.png?" witdh=450>
 
 1. [Instalación](#instalación)
 2. [Uso del programa](#uso)
