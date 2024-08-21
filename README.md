@@ -39,12 +39,12 @@ python3 main.py
 # Uso
 ---
 
-["alt"](image.png)
+<img src="https://github.com/tarpiov/kitten/blob/main/image.png" witdh=500>
 
 - `Normal`: Escanea los subdominios basándose en los mas usados a nivel mundial
 - `Spanish`: Escanea los subdominios basándose en los mas usados a nivel hispanohablante
 
 > Después de seleccionar una opción e ingresar el nombre del dominio, ya os empezarán a salir los resultados.
-<img src="https://media.discordapp.net/attachments/1271321869760598081/1274182086642765947/image.png?ex=66c5468a&is=66c3f50a&hm=e26873cd1b950a7742fe98c26e8100194ece1494913c5d490059bf364822b6e4&=&format=webp&quality=lossless&width=577&height=525" width=500>
+<img src="https://github.com/tarpiov/kitten/blob/main/image2.png" witdh=500>
 
 
