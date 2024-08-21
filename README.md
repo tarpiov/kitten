@@ -39,7 +39,7 @@ python3 main.py
 # Uso
 ---
 
-<img src="https://media.discordapp.net/attachments/1271321869760598081/1274181511217942648/image.png?ex=66c54601&is=66c3f481&hm=b3f4bc2e023697162d769e85a32ccfe92fd8b50d331099504d7fe54eb6734483&=&format=webp&quality=lossless&width=546&height=525" width=500>
+["alt"(image.png)
 
 - `Normal`: Escanea los subdominios basándose en los mas usados a nivel mundial
 - `Spanish`: Escanea los subdominios basándose en los mas usados a nivel hispanohablante
